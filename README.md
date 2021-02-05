@@ -5,7 +5,7 @@ Creates and deletes temporary directories.
 ## Installation
 
 ```sh
-npm install https://github.com/glynnbird/tmpdir
+npm install --save https://github.com/glynnbird/tmpdir
 ```
 
 ## Usage
