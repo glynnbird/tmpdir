@@ -1,0 +1,26 @@
+{
+  "name": "tmpdir",
+  "version": "1.0.0",
+  "description": "Temp directory creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "standard": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glynnbird/tmpdir.git"
+  },
+  "keywords": [
+    "tmp"
+  ],
+  "author": "Glynn Bird <glynn.bird@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/glynnbird/tmpdir/issues"
+  },
+  "homepage": "https://github.com/glynnbird/tmpdir#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
